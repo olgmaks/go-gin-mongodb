@@ -311,7 +311,7 @@
 			"revisionTime": "2018-11-15T11:05:04Z"
 		}
 	],
-	"rootPath": "/github.com/golang/web-app",
+	"rootPath": "/github.com/golang/web-app/app",
 	"heroku": {
         "install" : [ "./..." ],
         "goVersion": "go1.12.7"
